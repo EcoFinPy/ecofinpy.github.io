@@ -23,7 +23,7 @@ twitter_username: EcoFinPy
 github_username:  EcoFinPy
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 theme: minima
 gems:
   - jekyll-feed
