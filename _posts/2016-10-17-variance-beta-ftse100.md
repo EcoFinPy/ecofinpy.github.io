@@ -5,4 +5,4 @@ date:   2016-10-17 16:54:11 +0100
 category: finance
 tags: [ftse100,variance,beta]
 ---
-The concept of \$$ \beta $$ is often confused with that of variance when referring to daily returns of a liquid risky asset.
+The concept of $$\beta$$ is often confused with that of variance when referring to daily returns of a liquid risky asset.
