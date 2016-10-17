@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EcoFin
-email: ruthalongi@yahoo.com
+title: EcoFinPy
+email: ecofinpy@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   In this blog we discuss about topics relating to Economics and Finance. We employ mainly data analysis methods in our posts. To accomplish our results we deploy modern programming languages such as Python. We aim to be simple and not to atray too far from the empirical reality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ecofinpy
+twitter_username: EcoFinPy
+github_username:  EcoFinPy
 
 # Build settings
 markdown: kramdown

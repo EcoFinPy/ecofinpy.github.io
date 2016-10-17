@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In this blog we discuss about topics relating to Economics and Finance. We employ mainly data analysis methods in our posts. To accomplish our results we deploy modern programming languages such as Python. We aim to be simple and not to atray too far from the empirical reality.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can contact us at the email [ecofinpy@yahoo.com](mailto:ecofinpy@yahoo.com) or via Twitter (username: EcoFinPy).
