@@ -9,7 +9,7 @@ The concept of market $$\beta$$ is often confused with that of variance $$\sigma
 In this context, $$\beta$$ is the coefficient estimated by ordinary least squares in a linear regression model such as the following:
 
 
-$$ r_t = \alpha + \beta m_t + \epsilon_t \, , \, t = 1,\ldots,T $$ ,
+$$ r_t = \alpha + \beta m_t + \epsilon_t \, , \, t = 1,\ldots,T $$
 
 
 where $$r_t$$ and $$m_t$$ are respectively the returns on the risky asset and on the aggregate and representative market of risky assets at time $t$. 
