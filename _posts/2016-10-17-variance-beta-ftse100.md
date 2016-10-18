@@ -20,6 +20,9 @@ The variance $$\sigma^2$$ is calculated without taking reference to the market r
 $$ \sigma^2 = \frac{ \sum_{t=1}^{T} (r_t - \mu)^2 }{T} $$
 
 
-where $$\mu = \frac{\sum_{t=1}^{T} r_t}{T}$$ is the arithmetic mean of the returns $$r_t$$ of the risky asset.
+where $$\mu = \frac{\sum_{t=1}^{T} r_t}{T}$$ is the arithmetic mean of the returns $$r_t$$ of the risky asset. In calculating the variance $$\sigma^2$$ of $$r_t$$ we assume that each observation in our sample of returns is equally likely to occur.
 
-It is often assumed that those assets that demonstrate a high market $$\beta$$ ought to be more risky than those assets that manifest a low market $$\beta$$. This last statement holds true for the great majority of assets, as one can see in the graph below.
+Riskiness of an asset is often measured by the variance $$\sigma^2$$ of the returns. Thus, an asset with returns that manifest a higher variance compared to the variance associated with an other asset is deemed to be more risky than that other asset. 
+
+It is often assumed that assets that demonstrate a high market $$\beta$$ ought to be more risky than those assets that manifest a low market $$\beta$$. This last statement holds true for the great majority of assets, as one can see in the graph below where we calculate the variance and market beta for each component of the FTSE 100 index as of {{ page.date | date: '%B %d, %Y' }}. 
+
