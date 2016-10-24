@@ -35,4 +35,4 @@ Riskiness of an asset is often deemed to be roughly measured by the actual histo
 It is often assumed that assets that demonstrate a high market $$\beta$$ ought to be more risky than those assets that manifest a low market $$\beta$$. This last statement holds true for the great majority of assets, as one can see in the graph below where we visualize the variance and market beta for each component of the FTSE 100 index as of {{ page.date | date: '%B %d, %Y' }}.
 
 
-![Market Beta and Realized Volatility]({{ site.url }}/assets/beta_sigma_data.eps)
+![Market Beta and Realized Volatility]({{ site.url }}/assets/beta_sigma_data.jpeg)
