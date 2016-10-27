@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Italian BTP and German Bunds: which is the best equity risk dampener?"
+date:   2016-10-27 16:40:00 +0100
+category: finance
+tags: [italian,btp,germany,bund,bond,dampener,equity,risk]
+---
